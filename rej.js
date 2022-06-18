@@ -3,6 +3,8 @@ const handlemap = (e) =>{
     console.log(e)
 }
 fruits.map(handlemap)
-functioon love(){
+function love(){
     return "hello"
 }
+
+love 
