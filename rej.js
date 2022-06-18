@@ -6,5 +6,3 @@ fruits.map(handlemap)
 function love(){
     return "hello"
 }
-
-love 
